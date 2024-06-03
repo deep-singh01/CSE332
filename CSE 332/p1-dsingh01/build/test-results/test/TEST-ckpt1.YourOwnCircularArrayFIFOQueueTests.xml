@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ckpt1.YourOwnCircularArrayFIFOQueueTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-20T05:43:36" hostname="MATRIX" time="0.061">
+  <properties/>
+  <testcase name="test_addNext_cyclesEntireQueue_returnsCorrect()" classname="ckpt1.YourOwnCircularArrayFIFOQueueTests" time="0.061"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
